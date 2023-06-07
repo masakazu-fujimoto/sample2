@@ -65,7 +65,7 @@ li {
 .heading2{
   margin:0px 0px 40px 0px;
   font-size: 36px;
-  font-weight: normal;
+  font-weight: bolder;
   text-align: center;
 }
 
@@ -149,3 +149,9 @@ li {
       flex-direction:row-reverse;
   }
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+

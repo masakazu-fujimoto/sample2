@@ -172,7 +172,7 @@ form textarea {
 }
 
 form input[type="submit"] {
-  background-color: #57C3E9;
+  background-color: royalblue;
   border-radius: 20px;
   color: #fff;
   border: 0;
@@ -182,7 +182,6 @@ form input[type="submit"] {
 form input[type="submit"]:hover {
   background-color: #84d3ef;
 }
-
 
 
 

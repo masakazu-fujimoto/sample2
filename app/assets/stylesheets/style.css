@@ -155,3 +155,37 @@ a {
   color: black;
 }
 
+.contents-new{
+  padding: 130px;
+  text-align: center;
+  background-color: #fafafa;
+}
+
+form input,
+form textarea {
+  width: 50%;
+  margin: 5px 0 15px;
+  padding: 10px;
+  border: 1px solid #D8D8D8;
+  border-radius: 5px;
+  font-family: "游ゴシック", "YuGothic";
+}
+
+form input[type="submit"] {
+  background-color: #57C3E9;
+  border-radius: 20px;
+  color: #fff;
+  border: 0;
+  font-size: 18px;
+}
+
+form input[type="submit"]:hover {
+  background-color: #84d3ef;
+}
+
+
+
+
+
+
+

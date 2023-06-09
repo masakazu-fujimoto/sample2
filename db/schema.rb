@@ -36,7 +36,7 @@ ActiveRecord::Schema.define(version: 2023_06_08_153938) do
   create_table "photos", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "name"
     t.string "text"
-    t.text "image"
+    t.string "image"
     t.string "address"
     t.float "latitude"
     t.float "longitude"
